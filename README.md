@@ -1,8 +1,6 @@
 # COVID-19 Tracker: Exploratory Data Analysis and Power BI Dashboard  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/[your-username]/[your-repo-name]?style=flat-square)  
-![GitHub repo size](https://img.shields.io/github/repo-size/[your-username]/[your-repo-name]?style=flat-square)  
-![GitHub license](https://img.shields.io/github/license/[your-username]/[your-repo-name]?style=flat-square)  
+
 
 ## Project Overview  
 
@@ -112,6 +110,6 @@ COVID-Tracker-Project/
 
 For queries or collaboration, reach out to:  
 📧 nithish.nuthalapat@gmail.com
-🔗 [GitHub Profile]  
+🔗 [GitHub Profile]  https://github.com/Nithish-NN
 
 
