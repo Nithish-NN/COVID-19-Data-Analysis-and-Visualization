@@ -89,17 +89,14 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **Power BI dashb
 
 ---
 
-## Project Files  
-
-```
 COVID-Tracker-Project/
 │
-├── COVID19_Dashboard.pbix        # Power BI dashboard
-├── cleaned_covid_data.csv        # Cleaned dataset
-├── EDA_Report.pdf                # Exploratory Data Analysis report
-├── COVID19_EDA.ipynb             # Jupyter notebook with Python code
-├── README.md                     # Project documentation
-```
+├── COVID19_Dashboard.pbix                    # Power BI dashboard
+├── cleaned_covid_data.csv                    # Cleaned dataset
+├── EDA_Report.pdf                            # Exploratory Data Analysis report
+├── Covid 19 Data cleaning and EDA.ipynb      # Jupyter notebook with Python code
+├── covid_19_India                            # Raw data
+├── README.md                                 # Project documentation
 
 
 ## Contact  
