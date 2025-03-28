@@ -56,16 +56,16 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **Power BI dashb
 📌 Mortality rate remained stable at **4.38%**, but total deaths surged during peak waves.  
 
 ### **2️⃣ Top 10 Affected States (By Recoveries)**  
-1. **[State 1]**: [Value]  
-2. **[State 2]**: [Value]  
-3. **[State 3]**: [Value]  
-4. **[State 4]**: [Value]  
-5. **[State 5]**: [Value]  
-6. **[State 6]**: [Value]  
-7. **[State 7]**: [Value]  
-8. **[State 8]**: [Value]  
-9. **[State 9]**: [Value]  
-10. **[State 10]**: [Value]  
+1. **Maharastra**: 6159676
+2. **Kerala**: 3396184  
+3. **Karnataka**: 2861499 
+4. **Tamil Nadu**: 2524400  
+5. **Andhra Pradesh**: 1952736
+6. **Uttar Pradesh**: 1685492 
+7. **west Bengal**: 1506532
+8. **Delhi**: 1411280
+9. **Chhattisgarh**: 988189 
+10. **Odisha**: 972710
  
 
 ### **3️⃣ Data Limitations**  
@@ -95,14 +95,10 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **Power BI dashb
 COVID-Tracker-Project/
 │
 ├── COVID19_Dashboard.pbix        # Power BI dashboard
-├── cleaned_covid_india_for_powerbi.csv  # Cleaned dataset
+├── cleaned_covid_data.csv        # Cleaned dataset
 ├── EDA_Report.pdf                # Exploratory Data Analysis report
-├── Key_Insights.pdf              # Summary of key findings
 ├── COVID19_EDA.ipynb             # Jupyter notebook with Python code
-├── cumulative_trends_over_time_corrected.png  # Time series plot
-├── top_states_confirmed_corrected.png         # Top 10 states bar chart
 ├── README.md                     # Project documentation
-└── LICENSE (optional)             # License file
 ```
 
 
